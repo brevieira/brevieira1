@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>oi</title>
+	<link rel="stylesheet" t href="style.css">
+</head>
+<body>
+
+
+<header>
+<h1 class="titulo">INFANCIA</h1>
+ 
+ </style>
+</header>
+	<main>
+		<section class="infancia2" id="infancia">
+<h2 class="infancia">PIQUE-PEGA</h2>
+		<p class="infancia">Eu quando tinha 9 anos, eu e meus amigos adoravamos brivar de pique pega,rodava o morro pra nao ser pegado.</p>
+		</section>
+		<section class="jogosps2" id="infancia">
+			<h2 class="jogos ps2">GTA san andreas ps2</h2>
+			<p class="jogos ps2">eu adorava jogar esse jogo "GTA san andreas", eu e meus amigos jogomos muito esse jogo quando tinha 8 a 11 anos.</p>
+		</section>
+	</main>
+</body>
+</html>

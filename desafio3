@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>oi</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<header>
+	<h1>RECEITA DE BOLO</h1>
+</header>
+<main>
+	<section>
+<p>Ingredientes:</p>
+<ol>
+	<li>1 e 1/2 xícara (chá) de leites</li>
+<li>1 colher(sopa) bem cheia de fermento em pó</li>
+<li>2 xícaras (chá) de açúcar</li>
+<li>3 xícaras (chá) de farinha de trigo</li>
+<li>3 ovos</li>
+<li>4 colheres (sopa) de margarita</li>
+</ol>
+
+<p>Modo de preparo:</p>
+<ul>
+	<li>Bata as claras em neve e reserve</li>
+	<li>Misture as gemas, a margarina e o açúcar até obter um massa homogẽnea</li>
+	<li>Acrecente o leite e a farinha de trigo aos poucos, sem parar de bater</li>
+	<li>Por úĺtimo, adicione as claras em neve e o fermento</li>
+	<li>Despeje a massa em uma forma grande de furo central untada e enfarinhadas</li>
+	<li>Asse em forno médio 180 c,preaquecido, por eproximadamente 40 minutos au furar o bolo com o garfo, este saia limpo</li>
+</ul>
+	</section>
+	<dl>
+		<dd>oi</dd>
+		<dd>oi</dd>
+
+
+	</dl>
+</main>
+</body>
+</html>

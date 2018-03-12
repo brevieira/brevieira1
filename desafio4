@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title></title>
+</head>
+<body>
+<header>
+	<h1>goku</h1>
+	<img src="/home/va-na-web-07/Documentos/brevieira/dragon-ball-super-050-05-goku-prepares.jpg">
+	<p>Son Goku (孫 悟空, Son Gokū?, mais conhecido apenas como Goku) é um personagem e o protagonista da franquia Dragon Ball criada por Akira Toriyama. Sua primeira aparição ocorreu no primeiro capítulo do mangá Dragon Ball, conhecido como Bulma e Son Goku ( ブ ル マ と 孫悟空, Buruma a Son Gokū ?), publicado na revista Weekly Shōnen Jump, em 3 de dezembro de 1984.[2] Goku é inspirado num personagem com o mesmo nome, 孫 悟空 (lê-se Sun Wukong em mandarin e Son Goku em japonês),[3] personagem principal do romance Jornada ao Oeste. Porém, Toriyama mudou algumas de suas características para ser mais original. Goku é apresentado como um menino estranho com rabo de macaco e força sobre-humana. Conforme a história se desenrola, é revelado que ele descende de uma raça fictícia chamada Saiyajins, uma das raças mais poderosas do universo.</p>
+</header>
+<main>
+	<section>
+		<h2>dragon ball Z</h2>
+<p>Dragon Ball Z (ドラゴンボールZ, Doragon Bōru Zetto?) (geralmente abreviado como DBZ) é uma série de anime produzida pela Toei Animation. Baseada na série de mangá Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde aos volumes 17 ao 42 do mangá que foi publicado na revista , Weekly Shonen Jump, de 1988 a 1995, e estreou no Japão na Fuji TV em 26 de Abril de 1989, e terminou dia 31 de Janeiro de 1996 com o total de 291 episódios,[4] antes de ser dublada em diversos territórios ao redor do globo, incluindo Estados Unidos, Austrália, Europa, Índia e América Latina.
+</p>
+<h3>episodios</h3>
+<ol>
+	<li>Saga Sayajin ( 35 )</li>
+	<li>Saga Freeza ( 72 )</li>
+	<li>Saga Garlic Jr. (filler) ( 9 )</li>
+	<li>Saga Androides e Cell ( 78 )</li>
+	<li>Saga Torneio do Outro Mundo (filler) ( 5 </li>
+	<li>Saga Majin Boo ( 92 )
+</li>
+</ol>
+	</section>
+	<section>
+		<h2>dragon ball super</h2>
+<p>Dragon Ball Super (ドラゴンボール超スーパー, Doragon Bōru Sūpā?) é uma série de anime criada por Akira Toriyama e produzida pela Toei Animation, que começou a ser exibida em 5 de julho de 2015.[5][6] É também uma série de mangá escrita/ilustrada por Toyotarō e supervisionada por Toriyama, serializada na revista de mangás shōnen V Jump da Shueisha. Dragon Ball Super é uma sequência para o mangá original Dragon Ball e a série de anime Dragon Ball Z, com o primeiro novo enredo em dezoito anos.[7][8] É transmitida no Japão aos domingos às 9:00 da manhã na Fuji TV.[4]
+</p>
+<h3>episodios</h3>
+<ol>
+	<li>Saga Deus da Destruição Bills ( 14 )</li>
+	<li>Saga Golden Freeza( 13 )</li>
+	<li>Saga Universo 6( 19 )</li>
+	<li>Saga Trunks do "Futuro" ( 30 )</li>
+	<li>Saga Sobrevivência do Universo ( ?? )</li>
+</ol>
+	</section>
+</main>
+<footer>brenno vieira da silva</footer>
+</body>
+</html>
+
+<dl>
+	<dt>oi</dt>
+	<dd>oi</dd>
+</dl>
+<ul>
+	<li>oi</li>
+	<li>oi</li>
+	<li>oi</li>
+<ol>
+	<li>oi</li>
+</ol>
+	<li>oi</li>
+	<li>oi</li>
+	<li>oi</li>
+</ul>
+<audio src="">
+	
+</audio>
+<video src=""
+  type=""
+  autoplay=""
+  loop=""     
+ width="" 
+ height="">
+</video>
+<iframe src=""></iframe>
+<figure><img src=""></figure>

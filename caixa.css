@@ -1,0 +1,26 @@
+ .caixa{ 
+ 	width: 100px;
+ 	height: 100px;
+    padding: 50px;
+    margin: 50px;
+    background-color:black;
+    border-style:solid;
+    border-width:25px;
+    border-color:red
+ }
+ p {
+ 	font-family:sans-serif;
+ 	color:rgb(05,05,05);
+    font-size:16px;
+    font-style: italic;
+    font-weight: bold;
+	height:10px;
+	line-height:15px;
+	text-align:center; 
+	display:inline;
+	display: flex;
+}
+h2{
+	display: flex;
+	display: none;
+}

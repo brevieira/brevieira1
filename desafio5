@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<style type="text/css">
+	P {
+		color:blue;
+	}
+</style>
+	<title>oi</title>
+	<meta charset="utf-8">
+</head>
+<body>
+<main>
+<form><p>por favor, prencha os campos abaixo e depois clique no botão enviar. Caso necessite apagar os dados, de clique no botão limpar.
+Muito obrigado! </p>
+	<p>nome completo:<input type="text" name="cidade"> seu e-mail<input type="text" name="cidade"><br></p>
+		
+		<section><p>sexo:</p>
+			<input type="radio" name="dia1" value="mascolino" checked>mascolino<br>
+			<input type="radio" name="dia1" value="feminino">feminino<br>
+		</section>
+		<section>
+		<p>estado civil:</p>
+			<input type="radio" name="dia2" value="solteiro" checked>solteiro<br>
+			<input type="radio" name="dia2" value="casado">casado<br>
+			<input type="radio" name="dia2" value="enrolado">enrolado<br>
+</section>
+<section>
+	<p>bens que possui:</p>
+	<input type="checkbox" name="dia3" value="casa" checked>casa<br>
+	<input type="checkbox" name="dia3" value="automovel">automovel<br>
+	<input type="checkbox" name="dia3" value="moto">moto<br>
+</section>
+
+<section>
+		<p>faixa de idade:<select name="dia">
+				<option value="3 a 10 anos" selected>3 a 10 anos</option>
+				<option value="11 a 18 anos" selected>11 a 18 anos</option>
+				<option value="19 a 30 anos" selected> 19 a 30 anos</option>
+			</select>hobby preferido:<select name="dia">
+				<option value="ler livros">ler livros</option>
+				<option value="ouvir musica"> ouvir musica</option>
+				<option value=" jogar video game">jogar video game</option>
+			</select></p>
+		</section>
+
+		<p>observações gerais:</p>
+
+			<textarea name="comentario" rows="5" cols="26">
+			deixe seu comentario
+			</textarea><br>
+
+		<section>
+			<input type="submit" name="enviar os dados" value="enviar os dados">
+			<input type="reset" name="reset os dados" value="reset os dados">
+		</section>
+</form>
+</main>
+</body>
+</html>

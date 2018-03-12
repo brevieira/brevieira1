@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<link rel="stylesheet" type="text/css" href="style2.css">
+	<title></title>
+</head>
+<body>
+    <header class="">
+	    <nav class="">
+		    <ul class="">
+			    <li class="">inicio</li>
+			    <li class="">sobre</li>
+		        <li class="">contato</li>
+		    </ul>
+	    </nav>
+    </header>
+    <main>
+    	<section>
+    		<p>Son Goku (孫 悟空, Son Gokū?, mais conhecido apenas como Goku) é um personagem e o protagonista da franquia Dragon Ball criada por Akira Toriyama. Sua primeira aparição ocorreu no primeiro capítulo do mangá Dragon Ball, conhecido como Bulma e Son Goku ( ブ ル マ と 孫悟空, Buruma a Son Gokū ?), publicado na revista Weekly Shōnen Jump, em 3 de dezembro de 1984.[2] Goku é inspirado num personagem com o mesmo nome, 孫 悟空 (lê-se Sun Wukong em mandarin e Son Goku em japonês),[3] personagem principal do romance Jornada ao Oeste. Porém, Toriyama mudou algumas de suas características para ser mais original. Goku é apresentado como um menino estranho com rabo de macaco e força sobre-humana. Conforme a história se desenrola, é revelado que ele descende de uma raça fictícia chamada Saiyajins, uma das raças mais poderosas do universo.</p>
+    	</section>
+    	<section>
+    		<p>Dragon Ball Z (ドラゴンボールZ, Doragon Bōru Zetto?) (geralmente abreviado como DBZ) é uma série de anime produzida pela Toei Animation. Baseada na série de mangá Dragon Ball escrita por Akira Toriyama, Dragon Ball Z corresponde aos volumes 17 ao 42 do mangá que foi publicado na revista , Weekly Shonen Jump, de 1988 a 1995, e estreou no Japão na Fuji TV em 26 de Abril de 1989, e terminou dia 31 de Janeiro de 1996 com o total de 291 episódios,[4] antes de ser dublada em diversos territórios ao redor do globo, incluindo Estados Unidos, Austrália, Europa, Índia e América Latina.</p>
+    	</section>
+    </main>
+</body>
+</html>
+cdls,mkdir,touch,more,grep,exit 
+git init,git add,git checkout--<arquivo>,git commit-m"mensagem"
